@@ -21,7 +21,7 @@ const float circleLength = 16.0;
 
 #define SPINNYCOLORRANDOM false
 #define SPINNYDURATION 2000
-#define SPINNYINTERVAL 15
+#define SPINNYINTERVAL 20
 #define DEBUG false
 #define TRACE false
 
@@ -30,7 +30,7 @@ const float circleLength = 16.0;
 #define totalPixels 16
 #define circlePixels 16
 
-#define VCC1 4
+#define VCC1 10
 #define VCC2 6
 
 #define GND 3
